@@ -1,12 +1,12 @@
 var arr = [
-    {dp:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjj7qaqmr3SUvxIb3E-iMgXjfzcAmoEGQO7A&s",
-    story:"https://i.pinimg.com/736x/06/39/42/063942828a94e22804f251a28df05ad0.jpg"},
-    {dp:"https://i.pinimg.com/736x/12/d6/94/12d694f54fa6c8ddaf26a193c858de0c.jpg",
-    story:"https://s6573.pcdn.co/wp-content/uploads/2025/02/Chota-Bheem.jpg"},
-    {dp:"https://play-lh.googleusercontent.com/NiSFTgI1pGeWbMJRwHDFk5r93laHboV0vmcCB2UEF0Q8iaFoWMCTLAQpsF9ehaV6QQ8",
-    story:"https://files.prokerala.com/movies/pics/800/movie-poster-62964.jpg"},
-    {dp:"https://w0.peakpx.com/wallpaper/830/24/HD-wallpaper-doraemon-anime-doraemon-and-nobita-mini-doraemon-nobita-nobita-and-doraemon.jpg",
-    story:"https://i.pinimg.com/474x/4f/8b/75/4f8b758aa770582c0206563509ca92ef.jpg"},
+    {dp:"https://images.unsplash.com/photo-1617922001439-4a2e6562f328?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bW9kZWxzfGVufDB8fDB8fHww",
+    story:"https://images.unsplash.com/photo-1562572159-4efc207f5aff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vZGVsc3xlbnwwfHwwfHx8MA%3D%3D"},
+    {dp:"https://images.unsplash.com/photo-1556347961-f9521a88cb8a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fG1vZGVsc3xlbnwwfHwwfHx8MA%3D%3D",
+    story:"https://images.unsplash.com/photo-1609748106043-0e89cc9f285e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTh8fG1vZGVsc3xlbnwwfHwwfHx8MA%3D%3D"},
+    {dp:"https://images.unsplash.com/photo-1556630820-200f321dce4a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fG1vZGVsc3xlbnwwfHwwfHx8MA%3D%3D",
+    story:"https://images.unsplash.com/photo-1464863979621-258859e62245?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE1fHxtb2RlbHN8ZW58MHx8MHx8fDA%3D"},
+    {dp:"https://plus.unsplash.com/premium_photo-1661953958098-7988b76674c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fGJ1aWxkaW5nfGVufDB8fDB8fHww",
+    story:"https://images.unsplash.com/photo-1511527661048-7fe73d85e9a4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fGJ1aWxkaW5nfGVufDB8fDB8fHww"},
 
 ]
 
@@ -27,7 +27,7 @@ storiyan.addEventListener("click",function(dets){
     
     setTimeout(function(){
         document.querySelector("#full-screen").style.display = "none"
-    },3000)
+    },1000)
 });
 
 
